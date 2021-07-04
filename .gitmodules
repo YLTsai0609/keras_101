@@ -1,0 +1,9 @@
+[submodule "transfer_learning_by_keras"]
+	path = transfer_learning_by_keras
+	url = https://github.com/dipanjanS/hands-on-transfer-learning-with-python.git
+[submodule "AdamW-SGDW"]
+	path = AdamW-SGDW
+	url = https://github.com/shaoanlu/AdamW-and-SGDW.git
+[submodule "generative_deep_learning"]
+	path = generative_deep_learning
+	url = https://github.com/davidADSP/GDL_code.git
